@@ -49,6 +49,7 @@ REFERENCES [dbo].[FiberPlan] ([PlanID])
 GO
 
 
+insert into Admin values('admin','admin')
 
 select * from Employee
 select * from Customer
